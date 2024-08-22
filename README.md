@@ -102,7 +102,7 @@ visit : https://linkr.bio/BangRoy.go.id
 <br></br>
 ```pkg install wget```
 <br><br>
-wget -O install-nethunter-termux https://github.com/DwiDevelopes/linux/
+wget -O install-nethunter-termux https://dwidevelopes.github.io/linux/
 chmod +x install-nethunter-termux
 ./install-nethunter-termux
 
