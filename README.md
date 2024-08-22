@@ -106,7 +106,7 @@ visit : https://linkr.bio/BangRoy.go.id
 <br></br>
 ```pkg install wget```
 <br><br>
-```wget -O install-nethunter-termux https://DwiDevelopes/linux/install.sh
+wget -O install-nethunter-termux https://DwiDevelopes/linux/install.sh
 chmod +x install-nethunter-termux
 ./install-nethunter-termux
 
