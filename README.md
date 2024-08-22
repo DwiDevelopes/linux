@@ -95,18 +95,14 @@ visit : https://linkr.bio/BangRoy.go.id
 <br></br>
 ```apt update```
 <br>
-<br><br>
+<br></br>
 ```apt update -y```
-<br></br>
-```pkg install git```
-<br></br>
-```pkg install git -y```
 <br></br>
 ```termux-setup-storage```
 <br></br>
 ```pkg install wget```
 <br><br>
-wget -O install-nethunter-termux https://DwiDevelopes/linux/install.sh/
+wget -O install-nethunter-termux dwidevelopes.github.io/linux/
 chmod +x install-nethunter-termux
 ./install-nethunter-termux
 
